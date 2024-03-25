@@ -1,11 +1,8 @@
 {
-  "plugins": ["ga", "gtm"],
+  "plugins": ["ga"],
   "pluginsConfig": {
     "ga": {
       "token": "G-4R6XQD5S5S"
-    },
-    "gtm": {
-      "token": "GTM-PBGWWR98"
     }
   }
 }
